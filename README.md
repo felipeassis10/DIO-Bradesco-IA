@@ -1,80 +1,211 @@
 # DIO-Bradesco-IA
-Repositório para o primeiro projeto lecionado por Felipe Aguiar da DIO envolvendo princípios de ia e aplicação de conhecimento vistos em aula sobre ia generativa e llm's ou large language models aplicando na prática;
 
-Repositório para o projetos, o primeiro sendo lecionado por Felipe Aguiar da DIO envolvendo princípios de Inteligência Artificial e aplicação dos conhecimentos vistos em aula sobre IA Generativa e LLMs (Large Language Models), colocando em prática conceitos, técnicas e ferramentas apresentadas durante o curso.
+Repositório desenvolvido para o desafio proposto pela DIO em parceria com o Bradesco, com foco na aplicação prática de Inteligência Artificial Generativa utilizando o NotebookLM. O projeto tem como objetivo explorar técnicas de curadoria de conteúdo, engenharia de prompts e síntese de conhecimento por meio de Large Language Models (LLMs).
 
-## Tema do Caderno Temático: Mercado Financeiro
+---
 
-Este caderno temático foi desenvolvido com foco no **Mercado Financeiro**, área de grande relevância para a economia e para a tomada de decisões de investimento. O objetivo é compreender os principais conceitos, instrumentos, estratégias e tendências do mercado, analisando como ele influencia empresas, investidores e a sociedade em geral.
+# Contexto e Objetivos
 
-Os objetivos de estudo deste material são:
+## Tema Escolhido
 
-- Compreender o funcionamento do mercado financeiro e seus principais participantes;
+### Mercado Financeiro
+
+O mercado financeiro é um dos pilares da economia moderna, sendo responsável pela intermediação de recursos entre investidores, empresas e instituições financeiras. Com o avanço da tecnologia e da transformação digital, o setor passou por profundas mudanças, tornando-se um ambiente cada vez mais dinâmico e competitivo.
+
+Este caderno temático foi desenvolvido com o objetivo de compreender os principais conceitos do mercado financeiro, suas tendências, desafios e oportunidades, utilizando ferramentas de Inteligência Artificial para auxiliar na organização e análise das informações.
+
+## Objetivos de Estudo
+
+- Compreender o funcionamento do mercado financeiro e seus participantes;
 - Identificar os diferentes tipos de investimentos e suas características;
-- Analisar conceitos de risco, rentabilidade e diversificação de carteira;
+- Analisar conceitos de risco, retorno e diversificação;
 - Entender o papel das instituições financeiras e dos órgãos reguladores;
-- Explorar tendências, oportunidades e desafios presentes no mercado financeiro atual;
-- Desenvolver uma visão crítica sobre a importância da educação financeira para pessoas e organizações.
+- Avaliar o impacto da tecnologia e da Inteligência Artificial no setor financeiro;
+- Desenvolver uma visão crítica sobre inovação e transformação digital no mercado financeiro.
 
-## Curadoria de Fontes
+---
 
-Para a construção deste caderno temático, foram selecionadas fontes abertas e confiáveis que abordam diferentes aspectos do mercado financeiro, incluindo conceitos fundamentais, investimentos, gestão de riscos, economia, inovação tecnológica e educação financeira. As fontes foram escolhidas por apresentarem informações relevantes, atualizadas e adequadas aos objetivos de estudo definidos.
+# Curadoria de Fontes
 
-### Fontes Utilizadas
+Para o desenvolvimento deste caderno temático foram utilizadas fontes abertas, confiáveis e relevantes para o estudo do mercado financeiro.
 
-### 1. A Disrupção em Detalhes - Parte II (XP Investimentos)
+## 1. A Disrupção em Detalhes - Parte II (XP Investimentos)
 
 **Link:**  
 https://conteudos.xpi.com.br/acoes/relatorios/a-disrupcao-em-detalhes-parte-ii/
 
-**Descrição:**  
-Esta fonte aborda as transformações que vêm ocorrendo no mercado financeiro devido à inovação tecnológica e ao surgimento de novos modelos de negócios. O material contribui para compreender como a digitalização está impactando bancos, corretoras e empresas do setor financeiro, além de apresentar tendências que influenciam investidores e organizações.
+### Contribuição para o estudo
+
+Este material aborda os impactos da transformação digital no setor financeiro, destacando como novas tecnologias estão alterando a forma como serviços financeiros são oferecidos e consumidos.
 
 ---
 
-### 2. Setor Financeiro: Um Grande Mercado em Disrupção - Parte III (XP Investimentos)
+## 2. Setor Financeiro: Um Grande Mercado em Disrupção - Parte III (XP Investimentos)
 
 **Link:**  
 https://conteudos.xpi.com.br/acoes/relatorios/setor-financeiro-um-grande-mercado-em-disrupcao-parte-iii/
 
-**Descrição:**  
-O documento apresenta uma análise aprofundada das mudanças estruturais no setor financeiro, destacando o crescimento das fintechs, a modernização dos serviços bancários e a competitividade do mercado. A fonte auxilia na compreensão das oportunidades e desafios enfrentados pelas instituições financeiras no cenário atual.
+### Contribuição para o estudo
+
+O documento apresenta uma análise aprofundada da evolução das fintechs, da digitalização dos serviços financeiros e da crescente competição entre empresas tradicionais e novos participantes do mercado.
 
 ---
 
-### 3. Gestão Empresarial (Santander)
+## 3. Gestão Empresarial (Santander)
 
 **Link:**  
 https://www.santander.com.br/blog/gestao-empresarial
 
-**Descrição:**  
-Esta fonte foi selecionada por abordar conceitos de gestão financeira e administração empresarial. O conteúdo demonstra como empresas podem utilizar estratégias financeiras para melhorar resultados, controlar riscos e otimizar recursos, aspectos fundamentais para entender a relação entre negócios e mercado financeiro.
+### Contribuição para o estudo
+
+A fonte apresenta conceitos relacionados à gestão financeira, planejamento estratégico e tomada de decisão, permitindo compreender a relação entre administração empresarial e mercado financeiro.
 
 ---
 
-### 4. Pesquisa sobre Inteligência Artificial e Empreendedorismo (Itaú)
+## 4. Pesquisa sobre Inteligência Artificial e Empreendedorismo (Itaú)
 
 **Link:**  
 https://www.itau.com.br/media/dam/m/71b6f548acfa9479/original/02-03-26-26-porcento-dos-empreendedores-da-regiao-norte-tem-preferencia-por-ferramentas-de-ia-mais-simples-e-intuitivas.pdf
 
-**Descrição:**  
-O material apresenta dados sobre o uso da Inteligência Artificial por empreendedores brasileiros. A fonte foi escolhida por demonstrar como a tecnologia está influenciando decisões estratégicas, produtividade e inovação nos negócios, fatores que impactam diretamente a economia e o mercado financeiro.
+### Contribuição para o estudo
+
+O material demonstra como a Inteligência Artificial está sendo incorporada ao ambiente empresarial brasileiro, influenciando produtividade, inovação e competitividade.
 
 ---
 
-### 5. Payback (Santander)
+## 5. Payback (Santander)
 
 **Link:**  
 https://www.santander.com.br/blog/payback
 
-**Descrição:**  
-Esta fonte explica o conceito de payback, indicador utilizado para medir o tempo necessário para recuperar um investimento. O conteúdo é importante para o estudo do mercado financeiro, pois auxilia na análise de viabilidade econômica, retorno financeiro e tomada de decisões relacionadas a investimentos e projetos empresariais.
+### Contribuição para o estudo
 
-## Considerações Finais
+Explica o conceito de Payback e sua importância para avaliação de investimentos, análise de retorno financeiro e tomada de decisões estratégicas.
 
-As fontes selecionadas oferecem uma visão ampla sobre o mercado financeiro, abordando desde inovação tecnológica e transformação digital até gestão financeira, investimentos e análise de retorno. A combinação desses materiais permite compreender tanto os aspectos teóricos quanto as aplicações práticas do mercado financeiro no contexto atual, contribuindo para o desenvolvimento de uma visão crítica e estratégica sobre o tema.
+---
 
-Além disso, o uso do NotebookLM permitiu organizar, consultar e relacionar informações de diferentes fontes, tornando o processo de estudo mais eficiente e auxiliando na construção de conhecimento sobre um dos setores mais importantes da economia moderna.
-   * Link: https://www.santander.com.br/blog/payback
+#  Engenharia de Prompts e Cicatrizes
 
-As fontes selecionadas servirão como base para aprofundar o conhecimento sobre o mercado financeiro e apoiar a construção de análises e reflexões ao longo do desenvolvimento deste caderno temático.
+Durante o desenvolvimento do projeto, foram realizados diversos testes de prompts para obter respostas mais completas e contextualizadas.
+
+## Prompt 1
+
+### Pergunta Inicial
+
+> Explique como a transformação digital está impactando o mercado financeiro.
+
+### Resultado
+
+Resposta ampla e genérica.
+
+### Ajuste Realizado
+
+> Explique como fintechs e Inteligência Artificial estão transformando o mercado financeiro brasileiro, apresentando benefícios e desafios.
+
+### Resultado Obtido
+
+Resposta mais específica, abordando automação, personalização de serviços e competitividade.
+
+---
+
+## Prompt 2
+
+### Pergunta Inicial
+
+> Quais são os principais tipos de investimento disponíveis para investidores iniciantes?
+
+### Resultado
+
+Listagem básica de investimentos.
+
+### Ajuste Realizado
+
+> Compare renda fixa e renda variável destacando riscos, vantagens, desvantagens e perfis de investidores.
+
+### Resultado Obtido
+
+Comparação mais detalhada e útil para aprendizado.
+
+---
+
+## Prompt 3
+
+### Pergunta Inicial
+
+> O que é Payback?
+
+### Resultado
+
+Definição simples.
+
+### Ajuste Realizado
+
+> Explique o conceito de Payback e apresente exemplos práticos de aplicação em empresas.
+
+### Resultado Obtido
+
+Explicação mais aprofundada e contextualizada.
+
+---
+
+# Miniguia de Estudos
+
+## Resumo Estruturado
+
+### O que é Mercado Financeiro?
+
+O mercado financeiro é o ambiente responsável pela negociação de ativos financeiros e pela circulação de recursos entre investidores, empresas e instituições.
+
+### Principais Participantes
+
+- Bancos
+- Corretoras
+- Investidores
+- Empresas
+- Órgãos Reguladores
+
+### Principais Tipos de Investimentos
+
+#### Renda Fixa
+
+- Tesouro Direto
+- CDB
+- LCI
+- LCA
+
+#### Renda Variável
+
+- Ações
+- ETFs
+- Fundos Imobiliários
+- BDRs
+
+### Tendências do Mercado Financeiro
+
+- Open Finance
+- Fintechs
+- Inteligência Artificial
+- Automação Financeira
+- Big Data
+- Análise Preditiva
+
+---
+
+# Glossário
+
+| Conceito | Definição |
+|-----------|-----------|
+| Fintech | Empresa que utiliza tecnologia para oferecer serviços financeiros. |
+| Payback | Tempo necessário para recuperar um investimento realizado. |
+| Renda Fixa | Modalidade de investimento com regras de remuneração previamente definidas. |
+| Renda Variável | Investimento cujo retorno depende das condições do mercado. |
+| Diversificação | Estratégia para reduzir riscos distribuindo investimentos em diferentes ativos. |
+| Open Finance | Compartilhamento seguro de dados financeiros entre instituições autorizadas. |
+| Inteligência Artificial | Tecnologia capaz de simular processos de aprendizado e tomada de decisão. |
+
+
+# Considerações Finais
+
+A utilização do NotebookLM demonstrou como ferramentas de Inteligência Artificial Generativa podem potencializar o processo de aprendizagem, permitindo organizar informações, gerar resumos, identificar conexões entre conteúdos e criar materiais de estudo mais eficientes.
+
+O desenvolvimento deste projeto possibilitou aprofundar conhecimentos sobre o Mercado Financeiro e compreender como a IA pode ser utilizada como ferramenta de apoio para pesquisa, análise e construção de conhecimento.
