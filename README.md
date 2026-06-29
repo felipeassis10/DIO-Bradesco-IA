@@ -55,7 +55,7 @@ Caderno temático voltado ao estudo do mercado financeiro, abordando conceitos f
 
  **Projeto-1:** [`Mercado-Financeiro`](./Mercado-Financeiro)
  
- **Projeto-2:** [`Metodologias-Ageeis`](./Metodologias-Ageias)
+ **Projeto-2:** [`Metodologias-Ageeis`](./Metodologias-Ageis)
  
 ---
 
