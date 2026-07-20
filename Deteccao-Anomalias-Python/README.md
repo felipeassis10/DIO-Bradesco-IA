@@ -21,7 +21,7 @@ Para o estudo foi utilizada a base de dados **Credit Card Fraud Detection**, amp
 
 ---
 
-## 📊 Base de Dados
+## Base de Dados
 
 O projeto utiliza o conjunto de dados **Credit Card Fraud Detection**, composto por milhares de transações realizadas com cartões de crédito.
 
